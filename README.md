@@ -1,16 +1,15 @@
-### Hi there 👋
+![Wiseshiba Logo](./background.png)
+Hello 😁, welcome to my page. I am a software contractor, self-taught programmer, and web designer from New Zealand. I know a broad spectrum of fields within software engineering. I can provide services in:<br>
 
-<!--
-**pharmac1st/pharmac1st** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- File Management, specifically Google Storage.
+- Backend Development (Express).
+- Frontend Component Development (React).
+- Security Auditing.
+- API Integrations.
+- Automation and Tool creation.
+- Autotesting, specifically [cyprees.io](https://www.cypress.io/).
+- Data visualisation.
+- Arduino/Microcontroller Programming.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I can program in Ruby, Javascript, C++/C and more.<br>
+For contracting queries, questions, or anything else, please email [hello@wiseshiba.net](mailto:hello@wiseshiba.net).
