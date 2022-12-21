@@ -1,4 +1,3 @@
-![Wiseshiba Logo](./background.png)
 Hello 😁, welcome to my page. I am a software contractor, self-taught programmer, and web designer from New Zealand. I have been programming my whole life, and have around five years of hands on experience, and know a broad spectrum of fields within software engineering. I can provide services in:<br>
 
 - File Management, specifically Google Storage.
