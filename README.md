@@ -13,7 +13,7 @@ Hello 😁, welcome to my page. I am a software contractor, self-taught programm
 - Autotesting, specifically [cyprees.io](https://www.cypress.io/).
 - Data visualisation.
 - Arduino/Microcontroller Programming.
-- Excel/Spreedshetting
+- Excel/Spreedsheeting
 
 I can program in Ruby, Javascript, C++/C and more.<br>
 For contracting queries, questions, or anything else, please email [hello@wiseshiba.net](mailto:hello@wiseshiba.net).
